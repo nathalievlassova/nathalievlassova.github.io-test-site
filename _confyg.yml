@@ -1,0 +1,7 @@
+title: Test site
+description: Test site for PaRus.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
+baseurl: /test-site
+
